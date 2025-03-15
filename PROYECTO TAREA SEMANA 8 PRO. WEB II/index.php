@@ -15,8 +15,8 @@ include 'Includes/db_conexion.php';
     <style>
         /* Estilo para la imagen de fondo */
         body {
-            /*coloquen el codigo que falta aqui*/
-            
+            background-image: url('imagenes/imagen_fondo_02.jpg');
+  
             background-size: cover;
             background-position: center center;
             background-repeat: no-repeat;
@@ -31,7 +31,6 @@ include 'Includes/db_conexion.php';
             padding: 20px;
             border-radius: 8px;
         }
-
         /* Estilo para el pie de página */
         footer {
             background-color: rgba(0, 0, 0, 0.7);
