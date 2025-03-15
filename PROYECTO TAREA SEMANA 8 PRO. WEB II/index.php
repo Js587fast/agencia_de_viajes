@@ -15,6 +15,7 @@ include 'Includes/db_conexion.php';
     <style>
         /* Estilo para la imagen de fondo */
         body {
+            /*coloquen el codigo que falta aqui*/
             
             background-size: cover;
             background-position: center center;
