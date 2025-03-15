@@ -15,7 +15,7 @@ include 'Includes/db_conexion.php';
     <style>
         /* Estilo para la imagen de fondo */
         body {
-            background-image: url('imagenes/imagen_fondo_02.jpg');
+            
             background-size: cover;
             background-position: center center;
             background-repeat: no-repeat;
