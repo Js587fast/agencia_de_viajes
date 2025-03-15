@@ -25,10 +25,8 @@ include 'Includes/db_conexion.php';
             color: white;
         }
 
-
         .container {
             background: rgba(0, 0, 0, 0.5);
-
             padding: 20px;
             border-radius: 8px;
         }
@@ -74,6 +72,11 @@ include 'Includes/db_conexion.php';
     <div class="container mt-5">
         <h1 class="text-center">Bienvenido a nuestra agencia de Viajes</h1>
         <p class="text-center">Seleccione una opción en el menú para continuar.</p>
+
+        <!-- Botón para ver vuelos reservados -->
+        <div class="text-center mt-4">
+            <a href="Pages/consultar_reservas.php" class="btn btn-warning">Ver Vuelos Reservados</a>
+        </div>
     </div>
 
     <!-- Pie de página -->
